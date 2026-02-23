@@ -15,9 +15,9 @@
 
 ![1](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/1.png)
 
-![2](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.png)
+![2](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/2.png)
 
-![3](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image006.png)
+![3](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/3.png)
 
 **Задание 2**
 
@@ -33,11 +33,11 @@
 
 **Тестирование**
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image008.png)
+![4](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/4.png)
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image010.png)
+![5](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/5.png)
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image012.png)
+![6](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/6.png)
 
 **Задание 3**
 
@@ -55,10 +55,10 @@
 
 Скриншоты результата работы программы
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image014.png)
+![7](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/7.png)
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image016.png)
+![8](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/8.png)
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image018.png)
+![9](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/9.png)
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image020.png)
+![10](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/10.png)
