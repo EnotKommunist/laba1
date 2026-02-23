@@ -13,11 +13,11 @@
 
 **Тестирование**
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png)
+![1](https://github.com/EnotKommunist/laba1/blob/main/Скриншоты/1.png)
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.png)
+![2](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.png)
 
-![](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image006.png)
+![3](file:///C:\Users\D899~1\AppData\Local\Temp\msohtmlclip1\01\clip_image006.png)
 
 **Задание 2**
 
